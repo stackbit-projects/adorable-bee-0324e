@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Hi there! Call me Abel
     content: |
-      Soy un diseñador UX/UI
+      I' m a UX / UI designer from Ecuador
   - section_id: about
     type: section_content
     title: About
