@@ -11,7 +11,7 @@ sections:
       translating needs to empathetic design.
   - section_id: about
     type: section_content
-    title: About
+    title: Abou
     actions:
       - label: Contact Me
         url: /contact
