@@ -5,8 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hi there! Call me Abel
-    content: |
-      I' m a UX / UI designer from Ecuador
+    content: >
+      I' m a UX / UI designer from Ecuador. I am working as a freelancer 
+      passionate about bridging gaps between people and their goals by
+      translating needs to empathetic design.
   - section_id: about
     type: section_content
     title: About
