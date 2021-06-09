@@ -9,13 +9,6 @@ sections:
       I' m a UX / UI designer from Ecuador. I am working as a freelancer 
       passionate about bridging gaps between people and their goals by
       translating needs to empathetic design.
-  - section_id: about
-    type: section_content
-    title: Abou
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
