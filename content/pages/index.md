@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hi there!
+    title: Hi there! Call me Abel
     content: |
       Soy un diseñador UX/UI
   - section_id: about
